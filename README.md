@@ -16,7 +16,7 @@ _✨ 基于 nonebot2 的 phigros 查分插件，支持图片渲染 ✨_
 <a href="https://pypi.python.org/pypi/nonebot-plugin-phigros-insight">
     <img src="https://img.shields.io/pypi/v/nonebot-plugin-phigros-insight.svg" alt="pypi">
 </a>
-<img src="https://img.shields.io/badge/python-3.8+-blue.svg" alt="python">
+<img src="https://img.shields.io/badge/python-3.10+-blue.svg" alt="python">
 
 </div>
 
